@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.fichas {
+    width: 100%;
+    height: 100%;
+}
+
+.buttonProgresso {
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    left: 1080px;
+    top: 60px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.buttonDashboard {
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    left: 500px;
+    top: 60px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.buttonRegister {
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    left: 1670px;
+    top: 230px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.buttonTraining {
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    left: 1670px;
+    top: 1190px;
+    cursor: pointer;
+    opacity: 0;
+}

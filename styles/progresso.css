@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.progresso {
+    width: 100%;
+    height: 100%;
+}
+
+.buttonFichas {
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    left: 740px;
+    top: 60px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.buttonDashboard {
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    left: 500px;
+    top: 60px;
+    cursor: pointer;
+    opacity: 0;
+}
